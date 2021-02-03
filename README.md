@@ -1,4 +1,4 @@
-# Bank-Marketing-Data
+# Bank Marketing
 
 Making use of Decision Trees and Neural Networks to predict if the client will subscribe to a term deposit or not. 
 Dataset and Data Description: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
